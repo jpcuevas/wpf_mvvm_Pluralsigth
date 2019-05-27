@@ -1,0 +1,14 @@
+C:\Users\jcuevas.ORDERINN\source\repos\TestApp01\zza\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\obj\Debug\Zza.Data.csprojAssemblyReference.cache
+C:\Users\jcuevas.ORDERINN\source\repos\TestApp01\zza\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\obj\Debug\Zza.Data.csproj.CoreCompileInputs.cache
+C:\Users\jcuevas.ORDERINN\source\repos\TestApp01\zza\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\bin\Debug\Zza.Data.dll.config
+C:\Users\jcuevas.ORDERINN\source\repos\TestApp01\zza\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\bin\Debug\Zza.Data.dll
+C:\Users\jcuevas.ORDERINN\source\repos\TestApp01\zza\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\bin\Debug\Zza.Data.pdb
+C:\Users\jcuevas.ORDERINN\source\repos\TestApp01\zza\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\bin\Debug\EntityFramework.dll
+C:\Users\jcuevas.ORDERINN\source\repos\TestApp01\zza\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jcuevas.ORDERINN\source\repos\TestApp01\zza\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\jcuevas.ORDERINN\source\repos\TestApp01\zza\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\bin\Debug\EntityFramework.xml
+C:\Users\jcuevas.ORDERINN\source\repos\TestApp01\zza\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jcuevas.ORDERINN\source\repos\TestApp01\zza\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\jcuevas.ORDERINN\source\repos\TestApp01\zza\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\obj\Debug\Zza.Data.csproj.CopyComplete
+C:\Users\jcuevas.ORDERINN\source\repos\TestApp01\zza\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\obj\Debug\Zza.Data.dll
+C:\Users\jcuevas.ORDERINN\source\repos\TestApp01\zza\WPFMVVM-StarterCode\ZzaDashboard\Zza.Data\obj\Debug\Zza.Data.pdb
